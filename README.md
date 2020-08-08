@@ -7,4 +7,6 @@ I'm Daniel Cruz, I'm a Full Stack developer student 👨‍💻 who is passionat
 - 🔭 I’m currently learning JavaScript and related frameworks/libs
 -  ⚡ Technologies: React, Node, React-Native
 
+More details: https://danielcruz.dev.br
+
 "If the iron be blunt, and he do not whet the edge, then must he put to more strength: but wisdom is profitable to direct.." 
