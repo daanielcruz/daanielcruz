@@ -5,7 +5,7 @@
 I'm Daniel Cruz, I'm a Full Stack developer student 👨‍💻 who is passionate about technology. 
 
 - 🔭 I’m currently learning JavaScript and related frameworks/libs
--  ⚡ Technologies: React, Node, React-Native
+-  ⚡ Technologies: ReactJS, NodeJS, React-Native & TypeScript
 
 More details: https://danielcruz.dev.br
 
