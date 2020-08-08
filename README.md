@@ -1,6 +1,6 @@
 # Daniel Cruz
 [![Linkedin Badge](https://img.shields.io/badge/-danielfercruz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielfercruz/)](https://www.linkedin.com/in/danielfercruz/)
-[![Gmail Badge](https://img.shields.io/badge/-danielcruz@vivario.org.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielcruz@vivario.org.br)](mailto:danielcruz@vivario.org.br)
+[![Gmail Badge](https://img.shields.io/badge/-public@daniel.dev.br-c14438?style=flat-square&logo=Mail.Ru&logoColor=white&link=mailto:public@daniel.dev.br)](mailto:danielcruz@vivario.org.br)
 ## Hi 👋, 
 I'm Daniel Cruz, I'm a Full Stack developer student 👨‍💻 who is passionate about technology. 
 
