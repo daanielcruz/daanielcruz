@@ -11,9 +11,9 @@ More details: https://danielcruz.dev.br
 
 "If the iron be blunt, and he do not whet the edge, then must he put to more strength: but wisdom is profitable to direct.." 
 
-<a href="https://github.com/JonanthaW/github-readme-stats">
+<a href="https://github.com/daanielcruz/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=daanielcruz&show_icons=true" />
 </a>
-<a href="https://github.com/JonanthaW/convoychat">
+<a href="https://github.com/daanielcruz/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daanielcruz" />
 </a>
