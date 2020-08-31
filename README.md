@@ -10,3 +10,10 @@ I'm Daniel Cruz, I'm a Full Stack developer student 👨‍💻 who is passionat
 More details: https://danielcruz.dev.br
 
 "If the iron be blunt, and he do not whet the edge, then must he put to more strength: but wisdom is profitable to direct.." 
+
+<a href="https://github.com/JonanthaW/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=daanielcruz&show_icons=true" />
+</a>
+<a href="https://github.com/JonanthaW/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daanielcruz" />
+</a>
