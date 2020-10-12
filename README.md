@@ -1,5 +1,5 @@
 <div align="center">
-	<h1> Hello there, i'm Daniel </h1>
+	<h1> Hello there, I'm Daniel </h1>
 	:earth_americas: Rio de Janeiro, RJ - Brazil
 	<br/>
 	<br/>
