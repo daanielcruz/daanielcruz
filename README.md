@@ -3,7 +3,7 @@
 	:earth_americas: Rio de Janeiro, RJ - Brazil
 	<br/>
 	<br/>
-	<p>Front-end Developer | FullStack Student </p>
+	<p>Front-end Developer | Full-stack Student </p>
 </div>
 <table align="center">
 	<tr>
