@@ -12,6 +12,7 @@
 			<div align="center">
 	
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Swift](https://img.shields.io/badge/-Swift-%23ffffff?style=flat-square&logo=swift&logoColor=EF392E&labelColor=%23ffffff&color=%23E5E5E5)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-%23282C34?style=flat-square&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-%23282C34?style=flat-square&logo=react)
 ![Firebase](http://img.shields.io/badge/-Firebase-FFCA2B?style=flat-square&logo=firebase&logoColor=ffffff)
