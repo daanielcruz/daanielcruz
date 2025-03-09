@@ -7,7 +7,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23282C34?style=flat-square&logo=typescript&logoColor=007bcd)
 ![Swift](https://img.shields.io/badge/-Swift-%23ffffff?style=flat-square&logo=swift&logoColor=EF392E&labelColor=%23ffffff&color=%23E5E5E5)
 ![Python](https://img.shields.io/badge/-Python-%23282C34?style=flat-square&logo=python&logoColor=3776AB)
-![Ruby](https://img.shields.io/badge/-Ruby-%23CC342D?style=flat-square&logo=ruby&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-%2300ADD8?style=flat-square&logo=go&logoColor=white)
 
 </div>
 
